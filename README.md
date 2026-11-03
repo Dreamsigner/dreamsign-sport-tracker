@@ -15,3 +15,11 @@ Les données restent dans le stockage local du navigateur : elles ne sont ni syn
 ## Vérifications
 
 `node --check app.js`, `node --check server.js`, et `node test.js`.
+
+## Android et illustrations
+
+URL prévue après publication GitHub Pages : https://dreamsigner.github.io/dreamsign-sport-tracker/ . Ouvrir cette adresse HTTPS dans Chrome sur Android, puis choisir « Installer l’application » ou « Ajouter à l’écran d’accueil ». La première visite nécessite une connexion ; les ressources de l’application et les images du catalogue sont ensuite disponibles hors ligne. Les mises à jour sont recherchées en ligne. Aucune synchronisation ni donnée personnelle demandée.
+
+Le catalogue préillustré reste facultatif ; les exercices et images personnalisés sont toujours disponibles. La progression présente la meilleure série de chacune des sept dernières séances, comparée à l’objectif par série lorsqu’il existe.
+
+Illustrations : [Exercise data by RepDB (repdb.co)](https://repdb.co), fichiers WebP gratuits `images/flat/` issus de [RepDB exercise-dataset](https://github.com/RepDB/exercise-dataset), utilisés dans l’application selon la [licence Free Tier](https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md). Aucun contenu premium. Les images sont incluses pour l’usage dans cette application, pas pour redistribuer le jeu de données.
